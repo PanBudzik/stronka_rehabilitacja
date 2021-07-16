@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+ 
+.icon-mail:before { content: '\2709'; } /* '✉' */
+.icon-phone:before { content: '📞'; } /* '\1f4de' */
+.icon-clock:before { content: '🕔'; } /* '\1f554' */
